@@ -1,0 +1,3 @@
+#CREATE DATABASE mydb;
+#CREATE USER totoro;
+GRANT ALL ON DATABASE mydb TO totoro;
